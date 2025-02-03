@@ -10,4 +10,4 @@
 
 ## February
 
-2025-02-03 (Mon) : (작성 예정)
+2025-02-03 (Mon) : ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-03.md))
