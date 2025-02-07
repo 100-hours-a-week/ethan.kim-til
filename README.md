@@ -14,3 +14,4 @@
 - 2025-02-04 : NumPy, Pandas 집중 강의 및 복습 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-04_TIL.md))
 - 2025-02-05 : 2주차 과제 수행, NumPy 심화 학습, Python 개인 학습 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-05_TIL.md))
 - 2025-02-06 : Python 심화 학습 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-06_TIL.md))
+- 2025-02-07 : Pandas 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-07_TIL.md))
