@@ -31,3 +31,4 @@
 - 2025-02-08 : 수학 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-08_TIL.md))
 - 2025-02-09 : 수학 공부 복습, 공부 환경 셋업 및 정리 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-09_TIL.md))
 - 2025-02-10 : ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-10_TIL.md))
+- 2025-02-11 : ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-11_TIL.md))
