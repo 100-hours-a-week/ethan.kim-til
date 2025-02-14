@@ -33,3 +33,4 @@
 - 2025-02-10 : 데이터 시각화 학습 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-10_TIL.md))
 - 2025-02-11 : 크램폴린 IDE, 3주차 과제, 수학 공부(집합론) ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-11_TIL.md))
 - 2025-02-12 : Python 심화 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-12_TIL.md))
+- 2025-02-13 : 강의 복습, 수학공부 (집합론) ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-13_TIL.md))
