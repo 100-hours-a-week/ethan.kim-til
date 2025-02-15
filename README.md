@@ -35,3 +35,4 @@
 - 2025-02-12 : Python 심화 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-12_TIL.md))
 - 2025-02-13 : 강의 복습, 수학공부 (집합론) ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-13_TIL.md))
 - 2025-02-14 : 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-14_TIL.md))
+- 2025-02-15 : 선형대수2 강의 수강 및 복습 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-15_TIL.md))
