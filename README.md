@@ -39,3 +39,4 @@
 - 2025-02-17 : 미분, 다변수 미분, 편미분, 그레디언트, 선형회귀 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-17_TIL.md))
 - 2025-02-18 : PyTorch, 데이터 전처리, 증강, 데이터셋 분할, 머신러닝, 딥러닝, 퍼셉트론 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-18_TIL.md))
 - 2025-02-19 : 데이터 증강, 교차 검증, 머신러닝, 딥러닝, 4주차 과제 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-19_TIL.md))
+- 2025-02-20 : Fast API, 4주차 과제 5번 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.kim-til/blob/main/02-Feb/2025-02-20_TIL.md))
